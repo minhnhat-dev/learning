@@ -1,0 +1,18 @@
+1. Tai sao con nguoi có thể thay đổi?
+    - Chàng thanh niên nhốt mình trong nhà -> từ quá khứ -> không dám ra ngoài
+    - Triết gia -> tôi cũng vậy ư ?
+    - Người khác quá khứ bị -> h cũng vậy ư ?
+    - Adler -> quá khứ k liên quan gì đến hiện tại
+        - Ông nói quá khứ k hình thành con người ta ở hiện tại, mà chúng ta đang gán ý nghĩa vào những trải nghiệm đó
+        - Mục đích trong hiện tại ? -> cậu bạn đó đã có mục đích "Không ra ngoài" để đạt đc mục đích của mình
+        - Thuyết nguyên nhân 
+            - VD Bị bệnh là do quá khứ mặc phong phanh, bác sĩ k kê thuốc hay gì hết mà chỉ tập trung vào nguyên nhân.
+        - Thuyết mục đích
+        - Vi dụ:
+            - Đi cafe -> bị đổ cafe -> nóng dận
+            - Triết gia: do mục đích của mình là muốn quát tháo ng bồi bàn, để xã cơn giận nên mới -> sinh ra cảm xúc nóng dận, nếu có con dao muốn đâm người ta thì ngước lại rồi
+            - ví dụ điện thoại quát con vs ns chuyện vs giáo viên
+            - Cơn giận có thể kiểm soát đc.
+            - Người mẹ quát tháo k phải vì cảm xúc nóng giận -> mà do muốn quật ngã đứa con bằng cảm xúc nóng giận
+            -> đơn giận là công cụ để đạt đuơc mục đích
+            - Con người hành động không theo cảm xúc chi phối cũng như k bị quá khứ chi phối

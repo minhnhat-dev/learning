@@ -1,0 +1,49 @@
+
+- Simple tenses
+---------------( Past )--------------------------------------------( Present )---------------------------------------------(Future) --------------------------------------
+    Fact:                                                      Fact:                                                    |                   |                    |
+        1. Habits                                                  1. Habits                                Appointments                Intentions            Instant 
+        2. Routines                                                2. Routines              
+ Adv: always, often, sometimes...                        Adv: always, often, sometimes, never                           Adv: tomorrow, later, tonight
+                                                               rarely...       
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tobe                       |    Verbs                |    Tobe                 |    Verbs                   |          |                      |                    |
+(was, were)                |Action verb: eat, seem   | (Am, is, are)           | Act verbs: eat, seem       | Present continues tense|   Be going to      |  will/shall
+                           |                         |                         |                            |                        |                    |
+->status, quality,         |-> Action                |-> status, quality,      | Action                     |                        |                    |      
+definition                 |                         | definition              |                            |                        |                    |          
+                           |                         |                         |                            |                        |                    |      
+(+) S + was/were           |(+) S + V(ed/v2)         |(+) S + am/is/are + V    |(+) S + V(s/es)/V_o         | Tobe + V_ing           |Be + going to + V_o | Shall/Will + V_o
+(-) S + wasn't/weren't     |(-) S + didn't + V_o     |(-) S + am/is/are + not  |(-) S + do/does + not + V_o |                        |                    |
+(?) Was/Were + S ... ?     |(?) Did + S + V_o        |(?) Am/Is/Are + S + V...?|(?) Do/Does + S + V_o... ?  |                        |                    |  
+
+
+
+- Continuous tenses: Tobe + V_ing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+(+) S + was/were + V_ing                             |(+) S + am/is/are + V_ing                             |(+) Shall/Will + V_ing
+(-) S + wasn't/weren't+ V_ing                        |(-) S + am/is/are + not + V_ing                       |(-) Won't/Shall not + V_ing
+(?) Was/Were + S + V_ing ?                           |(?) Am/Is/Are + S + V_ing ?                           |(?) Shall/Will + S + be + V_ing ?         
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Sự giao thoa giữa các thì trong tiếng anh > Perfect tense
+
+------------------------------ Past Perfect --------------------------- Present Perfect ----------------------------- Future Perfect -------------------------------------------------
+     [ A2 ] <----- A1 ------ [     ] - unknowm time--------------------> present result -----------------------------> future result ----
+        ^---------------Past perfect                                    Present perfect                                  Future perfect 
+        Something happened before a past action             Happened in the past and have a result          Something will be over in the future   
+                                                                         in the present      
+
+                                                    Adv: already, yet, just, recently                      Adv: By the time mark by the time events
+
+(+) Had + V_ed/V3                                   (+) Have/Has + V_ed/V3                                 (+) Will/Shall + have + V_ed/V3
+(-) Hadn't + V_ed/V3                                (-) Haven't/Hasn't + V_ed/V3                           (-) Won't/Shall not + have V_ed/V3
+(?) Had + S + V_ed/V3 ?                             (?) Have/Has + S + V_ed/V3                             (?) Will/Shall + S + have + V_ed/V3
+
+- Sự tiếp diễn của thì perfect -> Continuous perfect tense
+-------------------- Past perfect continuous --------------------- Present perfect continuous ------------- Future perfect continuous --------------------------
+                       Had + been + V_ing                            Have/has + been + V_ing               Will/Shall + been + V_ing   
+
+----> 5 thì hay sử dụng thường xuyên: Simple present + Simpe present continuous + Past tense + Present perfect + Future tense
