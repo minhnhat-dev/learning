@@ -13,3 +13,21 @@
 ### Language focus
 1. We often use verb tobe to describe people 
 
+### INTRODUCING PEOPLE
+- My name's
+- I work for....
+- This is my...
+- He's/She's in Sale/,...
+
+### ASKING THE QUESTION
+- Where are you from?
+- What's the reason for your visit?
+- How's your business doing ?
+- What the weather like in your country?
+- Where are you staying ?
+- What's your hotel like ?
+
+### OFFER A DRINK
+- Would you like a drink ?
+- How about a coffee?
+- Another drink ?

@@ -217,7 +217,6 @@ method mutate objet: push(), pop(), shift(), splice()
     7. Tips from exercise
         1. When item occurs in state -> we've totalItem and if need to count some status, example packed -> we can calculate use filter() -> not necessary create totalItem or something like countStatus
 
-
 ### useCallback(() => {}, []), useMemo(() => {}, [])
 1.
 ```
@@ -254,3 +253,13 @@ useCallback ([], a)
 
 const a = {name: "name"}
 a.name = "Ád" -> change trực tiếp dô vùng nhớ lun
+
+### Sharing State Between Components
+1. State each component is independent
+2. When you coordinate two component , move their state to their common parent
+3. Then pass information down thought props to their common parent
+4. Finally pass event handler down, the children can change parent's state
+5. It is component as "controlled"(driven by props) or uncontrolled (driven by state)
+
+### Preserving and resetting state
+1. 
