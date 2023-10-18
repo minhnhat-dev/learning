@@ -150,3 +150,22 @@
 - Mình có thể mang lại điều gì cho người này? -> chứ k phải ng này sẽ làm gì cho mình?
 
 ### Hãy nghe tiếng nói của cộng đồng lớn hơn.
+- Khi bị cảm thấy tách biệt -> hay suy nghĩ mình chỉ rời bỏ 1 cộng đồng nhỏ thôi -> mình vẫn ở cộng đồng của vũ trũ này. -> k hoà hợp cộng đồng này -> thì sẽ có cộng đồng khác thôi k sao cả.
+- Nếu có suy nghĩ rộng lớn hơn thì những khổ sở của mình chỉ là cơn gió thoáng qa -> chuyện bé xé ra to.
+- Nếu mối quan hệ là đỗ vỡ chỉ do 1 lần k dám đối diện vs sự phản đối -> thì mối quan hệ đó k đc xem là mối quan hệ gắn kết -> Sống mà chỉ sợ các mối quan hệ bị đỗ vợ là sống vì người khác, k tự do.
+
+### Không được mắn mỏ cũng k đc khen ngợi.
+- Làm sao để có các mối quan hệ chất lượng -> "mối quan hệ hàng ngang" -> "không đc khen ngợi cũng k đc mắng mỏ"
+- "Mối quan hệ hàng dọc" -> là đc mọi người khen
+- Nếu xem mọi người ngang hàng thì mình sẽ k có tự ti hoặc mặc cảm.
+
+### Cách tiếp cận khích lệ lòng can đảm.
+- Con ng sợ đối diện vs nhiệm vụ k phải vì k có năng lực -> mà là thiếu can đảm đối diện vs nhiệm vụ
+- Càng đc người khác khen -> con người càng tin mình k có năng lực.
+- Phân chia nhiệm vụ -> xem là ngang hàng -> khích lệ long can đảm -> sẽ xây dựng đc mối quan hệ tốt.
+
+### Làm thế nào để thấy mình có giá trị.
+- Xem mọi người là bạn thì cảm ơn -> có những câu nói này sẽ khích lệ lòng can đảm nè, cảm ơn, tôi vui lắm, may là có cậu giup
+- Tuyệt đối k đánh giá người khác.
+- Nghĩ mình có giá trị -> mình sẽ tự tin và khích lệ lòng can đảm -> làm sao nghĩ mình có giá trị -> Suy nghĩ mình có giá trị cho "cộng đồng" là mình có giá trị -> mình có ích cho ai đó, mình cống hiến cho ai đó -> là tự ắt mình sẽ có giá trị -> mình đang có ích cho ai đó.
+- Hãy quan tâm đến người khác -> luôn suy nghĩ mình có thể giúp gì cho họ.
