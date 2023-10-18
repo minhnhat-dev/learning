@@ -61,4 +61,92 @@
 - Phức cảm tự tôn -> dựa vào ánh hào quang của người khác để tỏ ra mình cũng v -> nhưng sâu bên trong là sự tự ti
 - Một dạng phô trương -> phô trương bất hạnh của mình -> lấy bất hạnh của mình làm vũ khí -> để bó buộc ng khác -> làm ng khác thận trọng vs mình
 
-### 
+### Đời không phải cuộc cạnh tranh với người khác
+- "Theo đuổi sự vượt trội" -> tưởng tượng mình đang đi trên 1 mặt phẳng cố gắng nổ lực để tiến về phía trc chứ k tranh đua vs người khác
+- không cần cạnh tranh -> tập trung vào bản thân -> không so sánh mình vs người khác
+- Phải có cái nhìn tích cực đối với những khác biệt vs ng khác -> mỗi ng là khác nhau -> nhưng chúng ta bình đẳng
+
+### Chỉ cháu là chỉ để ý đến khuôn mặt mình thôi
+- canh tranh -> sinh ra tự ti
+- nếu mà sống luôn trong tư thế cạnh tranh -> k hạnh phúc -> vì xem ai cũng là kẻ thù
+- xem mọi người như là bạn -> có thể chìa tay giúp đỡ -> xem cả thể giới là bạn -> mình sẽ hạnh phúc
+
+### Từ tranh giành quyền lực đến trả đũa
+- Học cách gán ý nghĩa cho những sự kiện trong quá khứ
+
+### Thừa nhận sai lầm không phải là thua cuộc
+- Thừa nhận sai lầm rút khỏi cuộc tranh giành -> k có nghĩa là thua cuộc -> bỏ qa khái niệm thắng thua đi mình sẽ thay đổi đc toàn diện bản thân.
+
+### Làm sao để vượt qa các nhiệm vụ cuộc đời mình phải đối diện
+- Cậu k đủ đan đảm dám đc hạnh phúc
+- Mình đang tự ti là do mình đang trốn tránh những trách nhiệm của cuộc đời -> 
+- "mình có năng lực" vs "mọi người là bạn mình"
+- Trách nhiệm cuộc đời?
+- TRách nhiệm công việc -> chán công việc là do suy nghĩ k dám đối diện or k muốn người khác phê bình mình, đả kích mình.
+- trách nhiệm hôn nhận
+- Trách nhiệm con cái
+
+### Sợi tơ hồng và dây xích chắc
+- Để mình có đc bạn bè -> mình phải thay đổi -> dấn thân, bước đi những bước đi can đảm đầu tiên.
+- Tình yêu -> là khi ở bên người nào đó mình cảm thấy tự do, k tự ti, k cần phô trương -> tình yêu đích thực.
+
+### Không đc lảng tránh, lời nói dối cuộc đời.
+- Ghét người khác -> do mục đích muốn ghét -> coi người khác là kẻ thù
+- Tất là những vấn đề trên -> là do minh k có lòng can đảm -> làm sao để khích lệ lòng can đảm
+
+### Phủ định nhu cầu được thừa nhận
+- Tâm lý học Andler phủ nhận nhu cầu đc thừa nhận.
+
+### Không được sống để đáp ứng mong đợi của người khác.
+- Nhặt rác -> k đc cảm ơn -> ko nhặt nữa -> mục đích đc thừa nhận cao hơn hành động nhặt rác -> điểm yếu của nền giáo dục thưởng-phạt
+- Lối sống để ý đến đánh giá của người khác -> cuối đời sẽ sống vì người khác.
+- Phải sống cho bản thân mình
+
+### Phân chia nhiệm vụ là gì?
+- Học là nhiệm vụ của trẻ -> ng lớn k đc tham gia vào
+- học làm là nhiệm vụ của mình -> do mình thụ hương kết quả đó
+- Mọi nổ lực cố gắng làm thay đổi ng khác là k cần thiết -> chỉ có ng đó mới thay đổi đc bản thân ng đó.
+
+### Hãy bỏ qua nhiệm vụ của người khác
+- bỏ qua nhiệm vụ của ng khác -> cuộc đời sẽ bớt gánh nặng hơn
+
+### Cách loại bỏ hoàn toàn những phiền muộn trong quan hệ giữa người vs người
+- làm bố mẹ buồn đến mấy cũng k quan trọng
+- ng khác đánh giá như nào là nhiệm vụ của họ -> yêu hay ghét là nhiệm vụ của họ
+- Quá bận tâm đánh giá của người khác -> nên k ngừng mong muốn đc người khác thừa nhận
+- Tai sao ta bận tâm đến ý kiến của người khác -> do ta k biết phân chia nhiệm vụ -> ngộ nhận nhiệm vụ của đối phương là nhiệm vụ của bản thân.
+- lời nói dối cuộc đời -> thất bại là do người này -> k có ng này mình đã sống cuộc đời tốt hơn.
+- thuyết ngyên nhân >< thuyết mục đích.
+- Đầu tiên hỏi -> đây là nhiệm vụ của ai ? -> phân ra nhiệm vụ -> k can thiệp vào nhiệm vụ của người khác -> k cho ng khác can thiệp vào nhiệm vụ của mình
+
+### Hãy chém đứt nút thắt Gordias
+- Hoàng đế Alexendros chém nút thắt -> phân chia nhiệm vụ
+- Cướp đi nhiệm vụ của ng khác -> làm cho người khác k làm đc gì -> k đối diện đc vs những khó khăn trong cuộc sống.
+
+### Nhu cầu được thừa nhận sẽ đánh mất tự do.
+- Do mục đích là k muốn bị mọi người ghét nên sẽ nhìn sắc mặt của ng khác -> thăm dò ý kiến -> quen dần sẽ bị phụ thuộc vào ng khác
+
+### Tự do thực sự là gì?
+- Nhu cầu đc thừa nhận, k muốn bị ai ghét -> là nhu cầu bản năng -> chúng ta sẽ bị lăn mãi xuống như v -> không nên để như vậy -> phải ngược dòng lên
+- Andler -> mọi vấn đề đều là mối quan hệ giữa người vs người -> phải giải thoát ra đc mối quan hệ này
+-  "Tự do là bị người khác ghét" -> giải thoát đc mối quan hệ đó -> mình k cần phải để ý sắc mặt đồ -> k sợ người khác ghét -> k để ý đến nhận xét của người khác -> không tìm kiếm sự thừa nhận từ người khác.
+- Đừng sợ bị ghét, ngược dòng lăn lên k để lăn xuống đến biến dạng tính cách của mình.
+- Tôi quan tâm đến việc mình như thế nào hơn là mình đc mọi người đánh giá ra sao.
+- Can đảm giám bị ghét -> sẽ đc tự do.
+
+### Lá bài mối quan hệ vs người khác luôn do mình nắm dữ
+- Mọi mối quan hệ nếu mình suy nghĩ theo thuyết mục đích -> mình sẽ nắm cái mục đích mình muốn hướng đến.
+
+### Mục đích của mối quan hệ ng vs ng là "cảm thức cộng đồng"
+- Tâm lý học Andler -> hãy xem mọi người là bạn -> sống giữa bạn bè mình sẽ có chỗ đứng -> đó gọi là cảm thức cộng đồng.
+
+### Tại sao chỉ quan tâm đến mình?
+- CHỉ muốn đc ng khác khen, quan tâm đến đánh giá của người khác -> là 1 người nghĩ mình là trung tâm.
+
+### Cậu k phải trung tâm của thế giới.
+- Mình k phải trung tâm của thế giới -> mình chỉ là 1 phần trong cộng đồng.
+- k lảng tránh -> Phải đối diện vs cuộc đời
+    - Công việc, bạn bè, hôn nhân, 
+- Mình có thể mang lại điều gì cho người này? -> chứ k phải ng này sẽ làm gì cho mình?
+
+### Hãy nghe tiếng nói của cộng đồng lớn hơn.

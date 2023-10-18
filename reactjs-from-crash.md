@@ -262,4 +262,24 @@ a.name = "Ád" -> change trực tiếp dô vùng nhớ lun
 5. It is component as "controlled"(driven by props) or uncontrolled (driven by state)
 
 ### Preserving and resetting state
-1. 
+- We think State lives inside component? -> but state held in React.
+- Position in React
+- Each component's state is isolated, independent
+- React keep around for as long as you render at the same component at the same position
+- Render in the same position but a difference component -> state is discards
+- The same position at the same component -> preserves state 
+- Difference component at the same position -> reset state
+- Difference component ở đây React phân biệt thông qa <div> mấy cái tag á
+
+### Passing data deeply with context.
+- verbose, inconvenient
+- Pass props deeply in middle components
+- component has same information
+- let parent make some information available to any components
+- no matter deep, without passing it explicitly thought props
+#### The problem passing props.
+- become verbose and inconvenient -> pass thought deeply components
+- the nearest common ancestor could be far removed from the components that need data. lifting up state -> prop drilling 
+
+#### Context: an alternative to passing props
+- provide data -> entire tree below
