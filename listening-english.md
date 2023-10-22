@@ -1,3 +1,16 @@
+## Các bước luyện nghe.
+1. Miêu tả vài câu đơn giản khi nhìn vào bức hình.
+2. Nghe video 1 cách tự nhiên, hiểu hay chưa hiểu tí nữa tính sau.
+3. Nhìn script và nghe, nếu chưa hiểu cũng đừng căng thằng.
+4. Dịch hiểu tường tận -> dịch ra nghĩa tiếng việt của câu đó.
+5. Sau khi dịch xong, nghe lại, vẫn nhìn script -> nhưng đảm bảo mình đã hiểu hết, hiểu chi tiết từng câu từng chữ.
+6. Nghe và hình dung, nhưng k nhìn vào lời thoại nữa -> cố gắng hình dung ra trong đầu những gì mình nghe đc.
+7. Nghe và nhại phát âm , ngữ điệu, nhịp điệu.
+
+
+
+
+
 ### Action school
 1. a balancing act: a difficult situation, where you try do several different things at the same time
     1. Learning and study at the same time is a real balancing act.
@@ -58,3 +71,50 @@
 - pick up (phrasal verb): buy something
     -> Could you pick up socks from store on your way home from work?
     
+### college graduation
+- Idioms:
+    - pass with flying color: passed a class or test with high marks
+        - Many student passed the test with flying colors
+    -  drop out of school: stop attending school, quite school
+        - My sister drop out of school because she didn't have money to pay for tuition.
+- left: not used up remaining
+    - My daughter has one year left of high school
+    - There are two cookies left, Can I have them ?
+- up in the air: undecided
+    - Our travel plans are up in the air until weather improves
+
+### College life
+- a walking encyclopedia: someone who seems like known everything.
+- have the right stuff: have needed skills to succeed
+    - She has the right stuff into any school She chooses
+
+### Daily schedule
+- burn the candle at both ends: work excess that affect to your physical and emotional well-being
+- work one's tail off: work very hard.
+
+---- Listening script----
+Vocabulary:
+1. get off work(v): finish work
+- 
+
+
+-  So, what’s your usual day like? You always seem so busy.
+    - 1 ngày bình thường của bạn như thế nào? Bạn luôn luôn dường như rất là bận
+- Well, I usually get up around 5:00 a.m. and work on the computer until 6:00.
+    - Tôi thường thức dậy khoảng 5h và làm việc trên máy tính cho đến 6h
+- Why do you get up so early?
+    - Tại sao bạn thức dậy sớm vậy?
+- Well, I have to leave home at twenty to seven (6:40 a.m.)so I can catch a bus at 7:00 o’clock. It takes me about twenty minutes to walk to the bus stop from my house.
+    - Tôi phải rời khỏi nhà vào 7h kém 20(6h40), để Tôi có thể bắt 1 chiếc xe bus vào lúc 7h đúng, Tôi mất khoảng 20 phút để đi bộ từ nhà đến bến xe buýt.
+- And what time do you get to work?
+    - Và bạn làm việc vào lúc mấy giờ?
+- Uh, my bus takes about an hour to get there, but it stops right in front of my office.
+    - Xe bus của tôi mất khoảng 1h để đến đó, nhưng nó dừng đúng ngày trước văn phòng của tôi.
+-  And what time do you get off work?
+    - Bạn hoàn thành công việc vào lúc mấy giờ.
+- Uh, around 5:00 o’clock. Then, we eat dinner around 6:30, and my wife and I read and play with the kids until 8:00 or so.
+    - khoảng 5h đúng, sau đó, chúng tôi ăn tối khoảng 6h30, và vợ của tôi và tôi đọc sách và chơi với bọn trẻ cho đến 8h hoặc lâu hơn.
+- So, when do you work on your website? You said one time that you create it at home?
+    - Khi nào bạn làm việc trên website của bạn? Bạn từng nói rằng bạn tạo ra nó tại nhà ?
+- Well, my wife and I often watch TV or talk until 10:00 o’clock. She then often reads while I work on my site, and I sometimes stay up until the early hours of the morning, but I try to finish everything by one or two.
+    - 

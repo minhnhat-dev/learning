@@ -169,3 +169,68 @@
 - Tuyệt đối k đánh giá người khác.
 - Nghĩ mình có giá trị -> mình sẽ tự tin và khích lệ lòng can đảm -> làm sao nghĩ mình có giá trị -> Suy nghĩ mình có giá trị cho "cộng đồng" là mình có giá trị -> mình có ích cho ai đó, mình cống hiến cho ai đó -> là tự ắt mình sẽ có giá trị -> mình đang có ích cho ai đó.
 - Hãy quan tâm đến người khác -> luôn suy nghĩ mình có thể giúp gì cho họ.
+
+### Chỉ có mặt ở đây cũng là có giá trị.
+- Đừng đánh giá người khác là họ đã làm gì -> mà hãy đánh giá sự tồn tại của họ.
+- Đừng nghĩ bản thân ở cấp độ hành vi mà hãy ở cấp độ tồn tại -> mình còn sống là mọi người đã vui rồi.
+- Hãy bước lên và đừng nghĩ người khác có hợp tác vs mình không -> mình cứ đi thôi
+- Con người không thể tuỳ cơ ứng biến thay đổi mình.
+
+### Con người không thể tuỳ cơ ứng biến thay đổi mình.
+- Hãy kiếm 1 ai đó và xem ng đó ngang hàng vs mình, 
+
+### Không phải khẳng định bản thân mà là chấp nhận bản thân.
+- không giám hỏi, phát biểu -> cái tôi thuần khiết
+- Cần 3 cái này để cảm thức được cộng đồng
+    - Chấp nhận bản thân: nếu cái gì mà bản thân k làm đc -> thì hãy chấp nhận và cố gắng để làm đc , chứ k lừa dối là mình sẽ làm đc sẽ cố gắng, cố gắng chú ý đến những thứ có thể thay đổi đc của bản thân. chấp nhận cái tôi nó vốn có và can đảm đối diện và làm nó tốt lên -> tất cả đều là về "can đảm" k phải chúng ta k có năng lực mà chúng ta k can đảm.
+    - Tin tưởng người khác
+    - Cống hiến cho người khác.
+
+### Tín dụng và tin tưởng khác nhau như thế nào.
+- Lòng tin vô điều kiện -> nếu k có lòng tin tưởng vs ng khác bạn sẽ k có mối quan hệ sâu sắc vs bất kì ai.
+
+### Bản chất của công việc là cống hiến cho người khác.
+- Đặt niềm tin vào người khác -> coi ng đó là bạn.
+- công hiến cho ng mình coi là bạn.
+- Làm việc là 1 kiêu cống hiến cho ng khác -> từ đó cảm thấy mình có giá trị
+- Thay vì suy nghĩ tại sao mọi người k giúp mình -> thì mình suy nghĩ mình đang có giá trị cho team -> k ai cảm ơn mình cũng sẽ làm.
+- Chấp nhận bản thân -> tin tưởng người khác -> xem người khác là bạn -> cống hiến hết mình cho người khác
+
+### Nghiện công việc là lời dối cuộc đời.
+- những người thiếu hài hoà với xã hội sẽ luôn chỉ để ý đến người ghét mình -> và suy diễn "tất cả mọi người" cả thế giới bla bla.
+- Mình có những cảm xúc trên là do mình chưa chấp nhận bản thân, chưa tin tưởng người khác -> từ đó chỉ để ý đến những thứ nhỏ nhặt.
+- liệu mình có can đảm để dám hạnh phúc. 
+
+### Ai cũng có thể hạnh phúc từ giây phúc này.
+- Bất hạnh lớn nhất của người là không thể yêu nổi chính mình, 
+- Cảm giác mình có ích cho ai đó, dù hữu hình hay vô hình -> thì cũng đủ rồi.
+- Hạnh phúc là cảm giác được cống hiến.
+- Nếu mình tự cảm nhận đc mình có ích cho ai đó thì mình cũng k cần người khác thừa nhận.
+
+### Dám bình thường.
+- Can đảm giám bình thường, -> chấp nhận bản thân -> thì sẽ nhìn nhận thế giới 1 cách rất bình thường.
+- Không xem người bình thường là bình thường -> vì bạn cho rằng người bth k có tài cán gì -> mình k cần thiết phải phô trương bản thân.
+
+### Cuộc đời là những khoảng khắc tiếp nối.
+- Cuộc đời k phải là 1 vạch liền -> là những chấm nhỏ của từng khoảng khắc hiện tại.
+
+### Sống như khiêu vũ.
+- Sống hết mình tại dây phút hiện tại.
+- Việc chinh phục 1 mục đích k phải là đến đích mà là trên quảng đường đến được đích đó.
+
+### Hãy rọi đèn chiếu vào cái "ngay tại đây, vào lúc này"
+- Hãy sống hết mình tại giây phút hiện tại.
+
+### Lời nói dối cuộc đời lớn nhất. 
+- Hãy sống nghiêm tục tại khoảng khắn hiện tại -> thì mình sẽ có 1 cuộc đời trọn vẹn.
+- "Lời nói dối lớn nhất cuộc đời" là chìm đắm trong quá khứ, mơ mộng đến tương lại -> chiếu ánh sáng mờ nhạt vào cuộc đời hiện tại để tưởng mình đã thấy gì đó.
+- Thời khắc quyết định k phải ngày hôm qa, ngày mai mà là ngay tại lúc này. 
+
+### Hãy mang lại "ý nghĩa" cho cuộc đời vô nghĩa.
+- Cuộc đời nói chung k có ý nghĩa.
+- Gặp khó khắn -> hãy nghĩ tiếp theo mình có thể làm đc gì ?
+- Nhìn nhận thế giới như nào là do bản thân mỗi người nhìn nhận -> xem mọi người là bạn, thế giới thật tuyệt vời -> chính mình mang lại ý nghĩa cho cuộc đời mình.
+- Cần 1 ngôi sao dẫn đường -> cống hiến cho người khác.
+- Dù ai ghét kệ hok -> cứ sống từng giây phút hiện tại -> rồi mình cũng sẽ có đc hạnh phúc, cũng đừng so sánh vs người khác, xem mọi người là bạn.
+- Andler: "Phải có ai đó đi trước đầu tiên, Dù cho những ng khác k hợp tác cũng k ảnh hưởng đến cậu, mình cần đi bước trước và đừng nghĩ ng khác có hợp tác hay không.
+
