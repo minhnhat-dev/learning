@@ -15,6 +15,81 @@ Hoc CQIP Raven
     - Chêm cái ngoại sinh vào nữa.
 - Kỹ luật là 1 kĩ năng.
 
+### 4 Cách tập trung cao độ
+1. Loại bỏ sự xao nhảng: 20p mới khôi phục lại được sự sao nhãng
+    - Tắt điện thoại, thông báo
+2. Kỹ thuật Pomodoro
+    - 25p nghĩ 5p
+3. Boosters
+    - suy nghĩ lung tung -> kéo lại dòng suy nghĩ ngay -> bằng cách đếm 123, ghi nó ra
+4. Thử rồi mà vẫn chưa tập trung
+    - Do mình mới
+    - Có thể rèn luyện đc.
+    - Không ngủ đủ
+    - Uống các loại thuốc gây mất tập trung
+
 ### Cách hoc tiếng anh
 - Search or làm gì cũng bằng tiếng anh, giải thích điều gì đó cũng bằng tiếng anh.
 - Tìm hiểu mọi thứ bằng tiếng anh
+
+### Kỹ thuật đọc tài liệu.
+- Đọc nhanh & đọc hiệu quả. 
+    - Điều quan trọng k phải đọc nhanh mà là đọc hiệu quả. 
+- Kỹ thuật đọc thầm (sub-vocalization)
+    - đọc k phát ra tiếng, thì thầm
+    - đọc thầm trong đầu
+    -> tốt cho sách học thuật -> chúng ta cần hiểu -> k cần tốc độ
+- Kỹ thuật đọc nhanh: Skimming
+    - Tắt chế độ đọc thầm
+    - Thay vì đặt điểm nhìn vào từng từ như đọc thầm, mình sẽ đặt tầm nhìn từ vào giữa câu, 
+B1: Đọc lướt qa để xem mình sẽ học đc những vấn đề gì
+B2: Làm midmap -> mục lục -> đưa ra các điểm chính đơn giản 
+-> 2 bước trên để khái quát vấn đề
+B3: Để hiểu 1 vấn đề -> yêu cầu ta nghiền nghẫm suy nghẫm
+    -> đặt mục tiêu giảng lại cho 1 ai đó.
+    -> 
+B4: Ghi chú
+    - Đặt câu hỏi -> những câu hỏi đơn giản
+    - Ghi chép sao mà mình có thể liên kết đc các kiến thức lại vs nhau, ghi lại câu hỏi
+B5: Test lại
+    B1: Làm midmap lại
+    B2: Test kiến thức lại (QUAN TTRỌNG PHẢI GỌI ĐC KIẾN THỨC VỀ RỒI HÃY ĐỌC LẠI NHÉ)
+    B3: Đọc hiểu lại
+    B4: Xem lại câu hỏi.
+
+### Cách học tiêng anh
+1. Reading
+    - Đọc nhiều, k cố nhớ ngữ pháp, từ, để nó đến tự nhiên,sử dụng từ điển anh viêt để hiểu nó là gì.
+2. Luyện nghe:
+    - Luyện nghe chép chính tả -> thực sự tiến bộ
+
+### Cách nhớ những gì đã học.
+- Mình k thể nhớ tất cả những gì mình đã học, chỉ nhớ đc thông tin mình muốn nhớ.
+1. Chọn những thông tin nào là thông tin cần nhớ.
+2. Phương pháp học -> lặp đi lặp lại thông tin đó
+
+### Cách quản lý thời gian
+- Nhận thức mình lãng phí time cho: facebook, youtube...
+- Sắp xếp: Ma trân Eisenhower
+    - List ra todo list
+    - Việc quan trọng nhất phải làm I (rất quan trọng rất gấp)
+    - Không gấp lắm nhưng rất quan trọng II
+    - K gấp cũng k quan trọng III
+    - Việc relax chơi bời.
+- Làm I xong -> dành time làm II nha
+- Bớt đa nhiệm đi: tập trung học 1 thứ tại 1 thời điểm thôi, k có vừa suy nghĩ này vừa học kia
+- Điều chỉnh trong 30 ngày: 
+
+### Rèn luyện tư duy 1% better
+- Minh rất có thể đang rơi vào vùng trũng của sự thất vọng -> hãy cứ cố gắng tiếp tục nhé
+
+### Sự trì hoãn
+- Hãy bắt tay làm ngay nếu k sẽ bị trì hoãn
+
+### Cách ngủ trong vòng 2p
+1. Không suy nghĩ gì hết, nhắm mắt như dãn -> tưởng tượng mình ở 1 nơi nào đó thư giản như ngoài biển nằm trên võng đong đưa
+2. Đánh lạc hướng suy nghĩ và thư giản cơ thể
+3. 
+
+### Chat GPT
+- https://chatgpt-vietnam.org/

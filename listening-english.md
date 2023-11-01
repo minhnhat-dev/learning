@@ -6,7 +6,7 @@
 5. Sau khi dịch xong, nghe lại, vẫn nhìn script -> nhưng đảm bảo mình đã hiểu hết, hiểu chi tiết từng câu từng chữ.
 6. Nghe và hình dung, nhưng k nhìn vào lời thoại nữa -> cố gắng hình dung ra trong đầu những gì mình nghe đc.
 7. Nghe và nhại phát âm , ngữ điệu, nhịp điệu.
-
+8. Nghe chép chính tả.
 
 
 
@@ -41,6 +41,7 @@
 4. reference room: phòng họp
 5. get rid of: throw away, dispose, use up
     - Let's get rid of this table, One of the legs is broken
+    
 ### Class reunion
 - **reunion**(n): a get together of people who have been apart for along time
     -> We going to hold the class reunion on September first.
@@ -91,30 +92,27 @@
 ### Daily schedule
 - burn the candle at both ends: work excess that affect to your physical and emotional well-being
 - work one's tail off: work very hard.
-
+- taking care: watch, look after
 ---- Listening script----
 Vocabulary:
 1. get off work(v): finish work
-- 
+2. stay up(verb): not go to bed
+3. set aside(verb): reserve, allow
 
+### Dating game.
+- contestant(n): a person who takes part in a game or contest.
+- book on sth: sach ve chu de nao do
+- adventure: a dangerous or exiting experience
+- gardening(n): the hobby who like take care of the plants in a garden
+- joy(adj): great happiness
+- serve(verb): help or given service, volunteer your time
 
--  So, what’s your usual day like? You always seem so busy.
-    - 1 ngày bình thường của bạn như thế nào? Bạn luôn luôn dường như rất là bận
-- Well, I usually get up around 5:00 a.m. and work on the computer until 6:00.
-    - Tôi thường thức dậy khoảng 5h và làm việc trên máy tính cho đến 6h
-- Why do you get up so early?
-    - Tại sao bạn thức dậy sớm vậy?
-- Well, I have to leave home at twenty to seven (6:40 a.m.)so I can catch a bus at 7:00 o’clock. It takes me about twenty minutes to walk to the bus stop from my house.
-    - Tôi phải rời khỏi nhà vào 7h kém 20(6h40), để Tôi có thể bắt 1 chiếc xe bus vào lúc 7h đúng, Tôi mất khoảng 20 phút để đi bộ từ nhà đến bến xe buýt.
-- And what time do you get to work?
-    - Và bạn làm việc vào lúc mấy giờ?
-- Uh, my bus takes about an hour to get there, but it stops right in front of my office.
-    - Xe bus của tôi mất khoảng 1h để đến đó, nhưng nó dừng đúng ngày trước văn phòng của tôi.
--  And what time do you get off work?
-    - Bạn hoàn thành công việc vào lúc mấy giờ.
-- Uh, around 5:00 o’clock. Then, we eat dinner around 6:30, and my wife and I read and play with the kids until 8:00 or so.
-    - khoảng 5h đúng, sau đó, chúng tôi ăn tối khoảng 6h30, và vợ của tôi và tôi đọc sách và chơi với bọn trẻ cho đến 8h hoặc lâu hơn.
-- So, when do you work on your website? You said one time that you create it at home?
-    - Khi nào bạn làm việc trên website của bạn? Bạn từng nói rằng bạn tạo ra nó tại nhà ?
-- Well, my wife and I often watch TV or talk until 10:00 o’clock. She then often reads while I work on my site, and I sometimes stay up until the early hours of the morning, but I try to finish everything by one or two.
-    - 
+### Donating cars
+- pile up (verb): increase to an amount that difficult to manage or pay
+- repair (v): sua chua
+- worth(n): gia tri cua gi do
+- tires(n): vo xe hoi
+- That's very kind of you: ban that bot bung
+- owe (v): no
+- pies (n): banh nuong
+- make us even: lam cho chung ta hoa nhau

@@ -283,3 +283,16 @@ a.name = "Ád" -> change trực tiếp dô vùng nhớ lun
 
 #### Context: an alternative to passing props
 - provide data -> entire tree below
+
+### CSS styled component
+- ```
+css cho thằng cha {
+    cha phải thay đổi đc css của con
+}
+{
+    .con {
+        bắt đc css của thằng cha để tự thay đổi chính mình
+    }
+}
+styled component -> build ra dc class css -> script -> copy dc as HTM
+```
