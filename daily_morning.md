@@ -91,5 +91,7 @@ B5: Test lại
 2. Đánh lạc hướng suy nghĩ và thư giản cơ thể
 3. 
 
-### Chat GPT
-- https://chatgpt-vietnam.org/
+### Lòng biết ơn
+- Minh bị dựt thần kinh -> nuôi rất khó khăn
+-> Lý do mình ra đời -> mình tồn tại đến bây giờ -> biết ơn gia đình
+- Bị người ta chê -> bạn quên hết tất cả mọi thứ, bố mẹ bạn dầm mưa giải nắng lo cho bạn, những bước chân bạn chập chững vào đời, niềm vui của bố mẹ khi bạn vào trường học, bạn đạt được thành tích dù nhỏ nhưng đối với bố mẹ và gia đình bạn quan trọng đến nhường nào, bạn bỏ qa hết đi sự nổ lực cố gắng của bản thân, từ lúc bạn nhỏ đến lớn bạn đã cố gắng đến nhường nào, tại sao lại phải quan tâm đến lời nói đó, lời nói đó chẳng còn ý nghĩa gì đối với bạn cả.
