@@ -35,3 +35,26 @@
      - Điều gì mình có -> biết chắc chắn thể hiện nó ra, còn điều chưa biết -> cứ thể hiện, k sợ người khác phán xét mình dở hay tào lao như thế nào?
 3. Chăm chút vẻ ngoài của mình.
 4. Những lúc nản chùn bước -> suy nghĩ cuộc sống ngắn ngủi lắm, mình còn bao nhiều thời gian nữa đâu -> mình cũng sẽ mất thôi. cố gắng hoàn thiện bản thân mình, k cần sự phán xét hay công nhận từ người khác.
+
+### 5 Bước học Tiếng Anh hiệu quả.
+1. Lựa chọn đoạn văn phù hợp với trình độ của mình.
+    - Mục tiêu là tiếp cận nội dung dễ dàng hơn, và tránh gặp khó khăn trong cách học, giúp duy trì động lực và tập trung trong khi học.
+2. Đọc lướt qa nội dung bài đọc để tìm từ or cụm từ mới trong bài
+    - Tra từ điển và học cách phát âm của từ đó 
+    - Nghe phát âm của người bản xứ, đọc đúng trọng âm + âm đuôi
+    - Đọc giải thích bằng tiêng Anh trước khi đoc nghĩa tiếng Việt -> giúp rèn tư duy suy nghĩ bằng TA
+3. Nghe đi nghe lại để ngấm ngữ điệu của người bản xứ
+    - Nghe đi nghe lại nhiều lần giúp mình nắm bắt ngữ điệu trong nhiều tình huống khác nhau
+    - Cách người bản ngữ nối các cụm từ lại với nhau
+    - Học cách sử dụng ngữ pháp 1 cách tự nhiên
+4. Kĩ thuật shadowing 
+    - Cải thiện phát âm, tốc độ phản xạ + ngữ điệu
+    - Sao chép cách diễn đạt của người bản ngữ
+5. Học thuộc đoạn văn, viết lại đoạn văn bằng trí nhớ của mình
+
+### Cách đọc thr, dr, xth, ts, sks, str,
+- 2 phụ âm trở lên thì mình k có nghĩ ở khoảng giữa nhé -> mà chỉ giữ độ cao/ độ rung của âm thôi nhé
+- ts
+- xth
+- thr
+- br
