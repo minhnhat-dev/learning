@@ -2,7 +2,7 @@ mua giau goi
 doc sach clean code js
 hoi a Chris AZ
 Hoc CQIP Raven
-
+Sach tieng anh: https://www.tiktok.com/@10phuttienganhmoingay?lang=en
 ### Cách duy trì KỶ LUẬT để KIÊN TRÌ với bất kì việc gì?
 1. Bỏ suy nghĩ có hừng mới làm.
 2. Hiểu bộ não mình hoạt động -> nó luôn né tránh sự vận động và suy nghĩ

@@ -63,3 +63,23 @@
     - Điều quan trọng k phải bạn tập trung vào mục tiêu chính, mà bạn sẵn sàng bỏ qa mối bận tâm khác khiến bạn xao nhãn hay k
 
 => Kéo giãn khả năng của mình ra khỏi vùng an toàn, sau đó tiếp thu những phản hồi thẳng thắng về khả năng của bạn.
+### QUY TẮC 3: TỪ CHỐI CƠ HỘI THĂNG TIẾN.
+- Liều thuốc tiên công việc mơ ước
+- Làm tốt công việc của mình cho mình quyền kiểm soát và sống với giấc mơ của mình
+#### Sức mạnh của sự kiểm soát
+- Trao cho ai đó quyền kiểm soát sẽ làm họ hạnh phúc và tự chủ hơn -> từ đó nâng cao hiệu quả công việc
+#### Bẩy kiểm soát thứ 1
+- Quyền kiểm soát đòi hỏi nguồn vốn, chính là vốn liếng sự nghiệp của bạn -> nếu bạn k đánh đổi vốn liếng sự nghiệp mà đòi tự chủ -> thì bóc cức mà ăn nhé.
+#### Bẩy kiểm soát thứ 2
+- Kiểm soát tạo nên sự chống đối.
+#### Tránh bẩy kiểm soát
+- Nếu điều gì làm tôi sợ hãi -> tôi sẽ làm nó
+#### Quy luật khả thi tài chính.
+- Hãy làm những gì mà mọi người sẵn sàng trả tiền cho bạn
+
+### QUY TẮT 4: Nghĩ nhỏ làm lớn.
+#### Vị giáo sư hạnh phúc
+- Sứ mệnh rõ ràng và hấp dẫn ?
+- Phải tiến đến được vùng tiên tiến nhất
+- Bắt đầu cố gắng từ những bước nhỏ -> thất bại là do mình chưa đủ trải nghiệm mà đã nghĩ lớn.
+
