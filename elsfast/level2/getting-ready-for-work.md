@@ -1,0 +1,12 @@
+### Getting ready for work 
+- Vocabulary
+    - step -> stepped (d) out of: 
+    - grab -> grabbed (d): take or hold something/somebody by your hand suddenly and roughly 
+    - towel: a pice of cloth used to drying something, especially your body
+    - wrap -> wrapped (d)
+    - looked (kt)
+    - facial hair: long mat
+    - shave: cut hair on skin, especially on face, using razor
+    - bleeding: chay mau
+    - stung: vet cat nho
+    - dry -> dried (d)

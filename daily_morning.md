@@ -95,3 +95,26 @@ B5: Test lại
 - Minh bị dựt thần kinh -> nuôi rất khó khăn
 -> Lý do mình ra đời -> mình tồn tại đến bây giờ -> biết ơn gia đình
 - Bị người ta chê -> bạn quên hết tất cả mọi thứ, bố mẹ bạn dầm mưa giải nắng lo cho bạn, những bước chân bạn chập chững vào đời, niềm vui của bố mẹ khi bạn vào trường học, bạn đạt được thành tích dù nhỏ nhưng đối với bố mẹ và gia đình bạn quan trọng đến nhường nào, bạn bỏ qa hết đi sự nổ lực cố gắng của bản thân, từ lúc bạn nhỏ đến lớn bạn đã cố gắng đến nhường nào, tại sao lại phải quan tâm đến lời nói đó, lời nói đó chẳng còn ý nghĩa gì đối với bạn cả.
+
+### Tại sao người lớn học tiếng anh khó hơn trẻ em
+1. Cố gắng dịch từ tiếng mẹ đẻ sang Tiếng Anh
+2. Làm sao để giải quyết vấn đề đó
+    1. Học tiếng Anh 1 cách chủ động
+    2. Học thuộc
+        1. Cần 1 đoạn văn (nội dung phù hợp với bạn)
+        2. Đọc qua đoạn văn và tìm những từ mới mà bạn chưa biết -> tra từ điển của người bản xứ, đọc phát âm và lập lại nhiều lần
+            - Đọc giải nghĩa bằng tiếng anh trước khi xem tiếng việt
+        3. Nghe đi nghe lại đoạn văn
+        4. Áp dụng phương pháp shadowing (đọc cùng với tốc độ của người bản xứ lun, chứ k phải dừng lại và đọc)
+        5. Học thuộc đoạn văn
+        6. Viết lại đoạn văn mình vừa học (viết bằng trí nhớ nhé)
+        7. Nói trước gương và record lại điều cần sửa
+
+### Những thói quen giết chết não bộ của chúng ta
+1. Thiếu ngủ
+2. Ngủ dậy là bật điện thoại -> thành thói quen và giết bộ não
+3. Làm việc đa nhiệm
+4. Lười vận động não bộ
+5. Lười vận động thể chất.
+6. Làm việc đa nhiệm
+7. Có những suy nghĩ tiêu cực về bản thân.

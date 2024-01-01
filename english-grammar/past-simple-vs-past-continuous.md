@@ -1,0 +1,47 @@
+### Past Simple and Pass Continuos
+- We use the past simple for specific time OR the action can't happen again
+- Verb
+    - + (positive): Subject + verb(#2) + object
+    - - (negative): Subject + didn't + verb(#1)
+    - ? (question): Did + subject + verb(#1) ?
+- "Be" verb
+    - + (positive): Subject + was/were + condition
+    - - (negative): Subject + wasn't/weren't + condition
+    - ? (question): Was/Were + subject + condition
+    - Condition: adjectives, jobs, place
+    - Adjective: big, happy, small, smart, bad...
+        - He was happy, They were tall
+    - Job:
+        - He was a student
+        - They were engineers
+    - Places:
+        - The book was on the table
+        - He was in the hotel
+    - More example:
+        - Wasn't he there?
+        - Didn't he go to school?
+        - Wasn't he happy?
+- regular vs irregular
+- We have a specific rule in English
+    - In a sentence we have 2 verbs, main and second verb -> we need to change the second verb use:
+        - to verb -> I hated to drink milk
+        - verb_ing -> I hated drinking
+- Past continuos
+    - + (positive) Subject + was/were + V#1_ing
+    - - (negative) Subject + wasn't/weren't + V#1_ing
+    - ? (question) Was/Were + subject + V#1_ing
+    VD: 
+        - She has been signing for 3 hours
+        - She is tired because she has been running (explaining the present -> why she tired)
+- Past continuos + past simple
+    - that mean 
+        - past simple: it long action
+        - past continuos: short/middle action
+    - ex: I was walking and I saw a cat
+    - It's doesn't matter you put past simple first or past continuos first
+    - But when you use "while" -> you must to put the past continuos first
+- Past continuos + past continuos -> that mean the action happened at the same time
+    - The action can happen at the same time
+        - singing and dancing
+        - driving and listening music
+- Past simple + Past simple -> different time

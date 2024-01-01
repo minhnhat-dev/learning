@@ -1,0 +1,17 @@
+### Preposition
+- on, in, at, about, above, as, over, into, onto, within
+- small words to talk a bout some things like: place, time, how to
+    - place: The mug is over the phone
+    - time: My class begin at 7:00 AM
+- preposition of time: at, in, on
+    - at
+        - use at when talk a bout a clock time
+        - ex: at 9 clock, at midnight, at noon
+        - time expression: at night, at Christmas, at the moment
+        - at + place
+    - on
+        - use on with day and dates
+        - on + time
+    - in
+        - use in with month, years, seasons
+        - 

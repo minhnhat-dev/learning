@@ -37,7 +37,7 @@
 4. Những lúc nản chùn bước -> suy nghĩ cuộc sống ngắn ngủi lắm, mình còn bao nhiều thời gian nữa đâu -> mình cũng sẽ mất thôi. cố gắng hoàn thiện bản thân mình, k cần sự phán xét hay công nhận từ người khác.
 
 ### 5 Bước học Tiếng Anh hiệu quả.
-1. Lựa chọn đoạn văn phù hợp với trình độ của mình.
+1. Lựa chọn đoạn văn phù hợp với trình độ của mình. (www.eslfast.com)
     - Mục tiêu là tiếp cận nội dung dễ dàng hơn, và tránh gặp khó khăn trong cách học, giúp duy trì động lực và tập trung trong khi học.
 2. Đọc lướt qa nội dung bài đọc để tìm từ or cụm từ mới trong bài
     - Tra từ điển và học cách phát âm của từ đó 

@@ -1,0 +1,20 @@
+### Concluding Sentence
+- the last sentence of paragraph 
+- transition worlds at the beginning 
+- it can restate the topic sentence
+- it can leave the reader with something to Think a about - like prediction, opinion, a suggestion
+- Tips for concluding sentence
+    - use synonyms
+    - use transition
+    - switch ideal, switch the order
+    - leave reader with something to think about - predictable, suggestion, opinion
+- Transition world
+    - As a result
+    - Clearly 
+    - Finally
+    - For these reasons
+    - In brief
+    - In sum
+    - In the end
+    - Overall
+    - Thus

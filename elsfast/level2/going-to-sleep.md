@@ -1,0 +1,11 @@
+### Going to sleep
+- Vocabulary
+    - yawn: open your mouth and breathe in deeply thought it, because you tired and bored
+    - pajamas: do ngu
+    - blanket: cai chan
+    - climb
+    - closet (/ˈklɑːzɪt/): small room, space in the wall with a door that reaches the floor, used for storing things.
+    - hush -> hushed(t): to be quite, to stop talking or crying
+    - lay(lei) -> pass lay (lai)
+- Sentences
+    - She came back home from work. She looked at the clock and yawned. It was nine PM. She went to her bedroom. She put on her pajamas.She got her blanket. She lay down on her bed. The room was cold. She got up and went to her closet to get extra blankets. She lay down again and covered herself. She fell asleep. She woke up at the middle at the night to get a glass of water. She drank the glass of water. She walked back to her bedroom. She yawned and fell asleep. Two hours passed. She woke up and went to the restroom. She heard a noise out side the window. She looked out the window to see what it was. It was black cat climbing the tree. sHe hushed the cat. THe cat ran away. SHe went back to bed. She closed her eyes and fell asleep. She slept very little.

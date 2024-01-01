@@ -83,3 +83,5 @@
 - Phải tiến đến được vùng tiên tiến nhất
 - Bắt đầu cố gắng từ những bước nhỏ -> thất bại là do mình chưa đủ trải nghiệm mà đã nghĩ lớn.
 
+### Hãy thử với những hành động nhỏ
+- 
