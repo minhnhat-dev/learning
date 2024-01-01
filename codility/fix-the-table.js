@@ -29,3 +29,28 @@ Fix The Table
 // [0, 16, 18, 30, 32, 34, 35, 42 , 44]
 // 16
 //  
+// 44 
+function solution(arr = []) {
+    if(arr.length === 1) return 1
+    const arrSorted = arr.sort((a,b) => a > b ? 1 : -1)
+    const minimumBoardLength = Math.floor((arrSorted[arrSorted.length - 1] - arrSorted[0]) / 2)
+    if(arr.length === 2) return minimumBoardLength
+    let left = 0
+    let right = left + 1
+    let shortestBoard = 0
+    while(right < arrSorted.length - 1) {
+        if(arrSorted[right] - arrSorted[left] <= minimumBoardLength) {
+            shortestBoard = Math.max(arrSorted[right] - arrSorted[left], shortestBoard)
+            right++
+        } else {
+            left = right
+            right++
+            shortestBoard = Math.max(arrSorted[right] - arrSorted[left], shortestBoard)
+        }
+    }
+    console.log('shortestBoard', shortestBoard)
+    return shortestBoard
+}
+solution([11, 20, 15])
+solution([15, 20, 9, 11])
+solution([0, 44, 32, 30, 42, 18, 34, 16, 35])
