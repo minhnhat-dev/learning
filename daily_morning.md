@@ -118,3 +118,9 @@ B5: Test lại
 5. Lười vận động thể chất.
 6. Làm việc đa nhiệm
 7. Có những suy nghĩ tiêu cực về bản thân.
+
+### Trước khi mua đồ gì đặt câu hỏi
+1. Món đồ đó có phục vụ công việc cho mình không? giúp mình tạo ra tiền hay không?
+2. Giúp mình cải thiện sức khoẻ không?
+3. Có quỹ dự phong cho việc mua món đồ đó hay chưa?
+4. Lấy giá trị nhân cho 25 để đánh giá tác động dài hạn đến sức khoẻ tài chính của bản thân trong tương lai. vd 10tr * 25 = 250tr để giúp mình thụ động đẻ ra tiền để mua chiếc đồ đó
